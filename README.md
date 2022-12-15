@@ -54,7 +54,7 @@ The **"Nodes"** section contains all the nodes that can be appended to the curre
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/71895708/207826544-323b8977-f1ca-4613-8180-e4a81e30c6ba.png">
 </p>
 
-- **Condition:** 
+- **Condition:** This node can be used to check for external variables to meet a particular condition (equals, not equals, less than, grater than)
 <p align="center">
 <img width="268" alt="image" src="https://user-images.githubusercontent.com/71895708/207827039-0bf5c5fb-cd6b-448c-85d9-3b2287cc2184.png">
 </p>
